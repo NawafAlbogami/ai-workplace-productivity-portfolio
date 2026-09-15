@@ -2,7 +2,7 @@
 # AI Workplace Productivity Portfolio - Database Administrator / Systems Analyst
 
 ## Trainee Information
-- Trainee Name: نواف مسلط البقمي
+- Trainee Name: Nawaf Albogami
 - Training Program: L0-FGP (Generative AI for Workplace Productivity)
 - Instructor: Fahad Alqahtani
 - Date: 15 September 2026
@@ -23,7 +23,6 @@ Database Administrator (DBA) / Systems Analyst responsible for maintaining datab
 
 ## Repository Contents
 | Section | Description |
-|---|---|
 | Prompt Engineering | Reusable workplace prompts for DBA tasks |
 | Writing Workflow | Professional IT communication example |
 | Information Workflow | Structured system log processing |
